@@ -4,4 +4,4 @@ Este projeto é desenvolvido em PHP usando o sistema CRUD (Create, Read, Update,
 
 # REQUISITOS
 
-- Conta no site [](alojamento-gratis.com)
+- Conta no site [alojamentos gratis](alojamento-gratis.com)
