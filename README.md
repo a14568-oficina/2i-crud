@@ -3,5 +3,5 @@
 Este projeto é desenvolvido em PHP usando o sistema CRUD (Create, Read, Update, Delete). Ele permite a gestão de produtos numa base de dados.
 
 # REQUISITOS
-http://www.alojamento-gratis.com/
+
 - Conta no site [alojamentos gratis](http://www.alojamento-gratis.com/)
